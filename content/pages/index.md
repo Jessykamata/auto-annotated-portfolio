@@ -129,7 +129,7 @@ sections:
         textAlign: left
   - type: TextSection
     title: Contactos
-    subtitle: The section subtitle
+    subtitle: "\U0001F4DE Telefone: +351 965 285 023"
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
