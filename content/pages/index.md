@@ -130,13 +130,7 @@ sections:
   - type: TextSection
     title: Contactos
     subtitle: "\U0001F4DE Telefone: +351 965 285 023"
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "*   \U0001F4DE **Telefone:** +351 965 285 023\n\n*   \U0001F4CD **Morada:** Praça Maria Luz de Deus, 1 - 3º Esq, 2635-648 Serra das Minas, Portugal\n\n*   \U0001F4F7 **Instagram:** [@atelier.jessyka.mata](https://www.instagram.com/atelier.jessyka.mata)\n\n\n\n"
     colors: colors-d
     variant: variant-b
     elementId: ''
