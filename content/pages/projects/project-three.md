@@ -5,10 +5,15 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: >-
+    /images/DALL·E 2025-04-25 20.03.29 - A creative and artistic top-down
+    illustration of a circular roundabout filled with parked cars arranged in
+    concentric circles. The roundabout center i.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
