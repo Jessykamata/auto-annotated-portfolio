@@ -9,7 +9,7 @@ description: >-
   personalidade e realçar a sua elegância em ocasiões especiais.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/pexels-photo-9850412.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
