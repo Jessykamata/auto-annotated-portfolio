@@ -10,7 +10,7 @@ description: >-
   seu conforto.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/shelby-murphy-figueroa-VSD-vtsH0CI-unsplash.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
