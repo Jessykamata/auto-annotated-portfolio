@@ -10,11 +10,10 @@ description: >-
   com o seu gosto e decoração.
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/DALL·E 2025-04-25 20.03.29 - A creative and artistic top-down
-    illustration of a circular roundabout filled with parked cars arranged in
-    concentric circles. The roundabout center i.webp
-  altText: Project thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
   url: /images/bg3.jpg
