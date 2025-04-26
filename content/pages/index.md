@@ -128,7 +128,7 @@ sections:
           - pr-4
         textAlign: left
   - type: TextSection
-    title: The Section Title
+    title: Contactos
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
