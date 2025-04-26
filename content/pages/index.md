@@ -65,7 +65,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Os nossos serviços
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
