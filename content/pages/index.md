@@ -67,7 +67,9 @@ sections:
         textAlign: left
     subtitle: Os nossos serviços
   - type: TextSection
-    title: The Section Title
+    title: >-
+      Cada detalhe, um gesto de amor. Cada criação, uma celebração da sua
+      história.
     text: >+
       No Atelier Jessyka Mata, acreditamos que a verdadeira beleza está na
       autenticidade. Cada peça que criamos é artesanal, feita com o coração e
