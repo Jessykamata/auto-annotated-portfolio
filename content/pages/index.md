@@ -66,6 +66,31 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Os nossos serviços
+  - type: QuoteSection
+    quote: >-
+      No Atelier Jessyka Mata, acreditamos que a verdadeira beleza está na
+      autenticidade. Cada peça que criamos é artesanal, feita com o coração e
+      adaptada às necessidades e sonhos de cada cliente.Trabalhamos com
+      dedicação, respeitando o ritmo da criação manual, para garantir resultados
+      que refletem a sua personalidade e estilo. Aqui, cada ponto é pensado,
+      cada tecido é escolhido com carinho, e cada detalhe é tratado com a
+      atenção que só o trabalho feito à mão pode proporcionar.Escolher o Atelier
+      Jessyka Mata é optar por exclusividade, qualidade e um serviço
+      genuinamente personalizado.
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
