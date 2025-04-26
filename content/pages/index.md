@@ -104,7 +104,7 @@ sections:
     title: Contactos
     subtitle: ''
     text: "*   \U0001F4DE **Telefone:** +351 965 285 023\n\n*   \U0001F4CD **Morada:** Praça Maria Luz de Deus, 1 - 3º Esq, 2635-648 Serra das Minas, Portugal\n\n*   \U0001F4F7 **Instagram:** [@atelier.jessyka.mata](https://www.instagram.com/atelier.jessyka.mata)\n\n\n\n"
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     elementId: ''
     styles:
