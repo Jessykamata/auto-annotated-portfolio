@@ -68,13 +68,23 @@ sections:
     subtitle: Os nossos serviços
   - type: TextSection
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      No Atelier Jessyka Mata, acreditamos que a verdadeira beleza está na
+      autenticidade. Cada peça que criamos é artesanal, feita com o coração e
+      adaptada às necessidades e sonhos de cada cliente.
+
+
+      Trabalhamos com dedicação, respeitando o ritmo da criação manual, para
+      garantir resultados que refletem a sua personalidade e estilo. Aqui, cada
+      ponto é pensado, cada tecido é escolhido com carinho, e cada detalhe é
+      tratado com a atenção que só o trabalho feito à mão pode proporcionar.
+
+
+      Escolher o Atelier Jessyka Mata é optar por exclusividade, qualidade e um
+      serviço genuinamente personalizado.
+
+
+
     colors: colors-f
     variant: variant-b
     elementId: ''
