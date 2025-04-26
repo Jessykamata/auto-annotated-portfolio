@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: Atelier Jessyka Mata – Costura artesanal e personalizada
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      No Atelier Jessyka Mata, cada peça conta uma história. Especializados em
+      fronhas de almofadas, ajustes de roupa, vestidos de festa e trajes de
+      noiva, oferecemos um serviço totalmente artesanal e personalizado para
+      realçar a sua beleza e estilo único. Cada criação é feita com amor,
+      dedicação e atenção a cada detalhe, garantindo peças que são
+      verdadeiramente suas.
     styles:
       self:
         height: auto
