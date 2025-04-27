@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Atelier Jessyka Mata – Costura artesanal E personalizada
     subtitle: >-
       No Atelier Jessyka Mata, cada peça conta uma história. Especializados em
